@@ -1,0 +1,15 @@
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\bin\Debug\Kontaktbuch.exe.config
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\bin\Debug\Kontaktbuch.exe
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\bin\Debug\Kontaktbuch.pdb
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\obj\Debug\Kontaktbuch.csprojResolveAssemblyReference.cache
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\obj\Debug\Kontaktbuch.StartSeite.resources
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\obj\Debug\Kontaktbuch.Properties.Resources.resources
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\obj\Debug\Kontaktbuch.csproj.GenerateResource.Cache
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\obj\Debug\Kontaktbuch.exe
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\obj\Debug\Kontaktbuch.pdb
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\bin\Debug\MetroFramework.Design.dll
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\bin\Debug\MetroFramework.dll
+\\sleepless\homes$\yannburg16\documents\visual studio 2015\Projects\Kontaktbuch\Kontaktbuch\bin\Debug\MetroFramework.Fonts.dll
+\\SLEEPLESS\homes$\yannburg16\Documents\Visual Studio 2015\Projects\Kontaktbuch\Kontaktbuch\obj\Debug\Kontaktbuch.KontaktBuch.resources
+\\SLEEPLESS\homes$\yannburg16\Documents\Visual Studio 2015\Projects\Kontaktbuch\Kontaktbuch\obj\Debug\Kontaktbuch.AddContactForm.resources
+\\SLEEPLESS\homes$\yannburg16\Documents\Visual Studio 2015\Projects\Kontaktbuch\Kontaktbuch\obj\Debug\Kontaktbuch.Profile.resources
